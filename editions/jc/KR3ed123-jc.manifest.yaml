@@ -1,0 +1,164 @@
+canonical_identifier: bkk:krp/KR3ed123/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ed123/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 外科經驗方
+  identifiers:
+    krp: KR3ed123
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed123.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed123_000-jc.yaml, hash: 'sha256:440b59c908899ef066365b5d4b87c5273428be912a05ba129c3b1b136dcf83d4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed123_000-jc.markers.yaml, hash: 'sha256:471acf5f2232243549918f67092a703d9fe18a7063568520f2623d4ff86b4ced'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed123_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 769
+  label: 腫瘍
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed123_jc_000-d3.h1s1
+    span:
+    - body
+    - 769
+    - 1397
+  label: 潰瘍
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed123_jc_000-d4.h1s1
+    span:
+    - body
+    - 1397
+    - 1657
+  label: 疔瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed123_jc_000-d5.h1s1
+    span:
+    - body
+    - 1657
+    - 1905
+  label: 乳癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed123_jc_000-d6.h1s1
+    span:
+    - body
+    - 1905
+    - 3852
+  label: 瘰癧
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed123_jc_000-d7.h1s1
+    span:
+    - body
+    - 3852
+    - 4056
+  label: 囊癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed123_jc_000-d8.h1s1
+    span:
+    - body
+    - 4056
+    - 4137
+  label: 下疳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed123_jc_000-d9.h1s1
+    span:
+    - body
+    - 4137
+    - 4686
+  label: 痔瘡附便血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed123_jc_000-d10.h1s1
+    span:
+    - body
+    - 4686
+    - 4988
+  label: 便癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed123_jc_000-d11.h1s1
+    span:
+    - body
+    - 4988
+    - 5376
+  label: 懸癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed123_jc_000-d12.h1s1
+    span:
+    - body
+    - 5376
+    - 5488
+  label: 臁瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed123_jc_000-d13.h1s1
+    span:
+    - body
+    - 5488
+    - 5611
+  label: 湯火瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed123_jc_000-d14.h1s1
+    span:
+    - body
+    - 5611
+    - 5756
+  label: 破傷風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed123_jc_000-d15.h1s1
+    span:
+    - body
+    - 5756
+    - 7303
+  label: 小兒丹毒
+  type: section
+  level: 1
+hash: sha256:6be5bf32475a66e68aa0e52de76d479a33cd2735f304e0e717997ee9ddbd420a
