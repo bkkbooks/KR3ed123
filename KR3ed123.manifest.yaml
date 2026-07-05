@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed123_000.yaml, hash: 'sha256:830229b5bc92466cb7b9faafd45c50dae2b0909c1128e2a7b67d170d9b8bb4c5'}
+  - {seq: 0, filename: KR3ed123_000.yaml, hash: 'sha256:440b59c908899ef066365b5d4b87c5273428be912a05ba129c3b1b136dcf83d4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed123_000.markers.yaml, hash: 'sha256:73755976935e3283aa3d10ee115fa351a5806f3132ff4c832d05ac7dcac196db'}
+  - {seq: 0, role: markers, filename: assets/KR3ed123_000.markers.yaml, hash: 'sha256:d3e7cb1aa5aa7a0daed841b60974322380c99e4d14863136cbae530dd36398dc'}
 table_of_contents:
 - ref:
     seq: 0
@@ -161,7 +161,4 @@ table_of_contents:
   label: 小兒丹毒
   type: section
   level: 1
-hash: sha256:8913c9fedbc368beb20ea0e5b3b9ef94d402f86b2c02b7be1f07f44e75fe82c9
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:472c1e7e346651d7f74474326c958bee05da561549b43fc5f66b6296b84c7376
