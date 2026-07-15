@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed123/v1
 canonical_location: https://kanripo.org/bkk/KR3ed123/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 外科經驗方
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed123_000.yaml, hash: 'sha256:440b59c908899ef066365b5d4b87c5273428be912a05ba129c3b1b136dcf83d4'}
+  - {seq: 0, filename: KR3ed123_000.yaml, hash: 'sha256:64dc4064a77c3b5fb82a4f0bd56e17696120c5c2be72bf9466537e5afb154393'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed123_000.markers.yaml, hash: 'sha256:d3e7cb1aa5aa7a0daed841b60974322380c99e4d14863136cbae530dd36398dc'}
+  - {seq: 0, role: markers, filename: assets/KR3ed123_000.markers.yaml, hash: 'sha256:5e4ea659f87405787b0aa7a198c2c2c555626e330ae7ea72ff93df6f9e9200bd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -161,4 +161,7 @@ table_of_contents:
   label: 小兒丹毒
   type: section
   level: 1
-hash: sha256:472c1e7e346651d7f74474326c958bee05da561549b43fc5f66b6296b84c7376
+hash: sha256:3b11c2d836664ef432659493ef71380a139017bdd5a80b17046ab206ae545bba
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
