@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed123_000-jc.yaml, hash: 'sha256:440b59c908899ef066365b5d4b87c5273428be912a05ba129c3b1b136dcf83d4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed123_000-jc.markers.yaml, hash: 'sha256:471acf5f2232243549918f67092a703d9fe18a7063568520f2623d4ff86b4ced'}
+  - {seq: 0, role: markers, filename: assets/KR3ed123_000-jc.markers.yaml, hash: 'sha256:5474d643af6dbbeee64a1373ae10d7adfde7d0d97abd9b631e1e5fa328701743'}
 table_of_contents:
 - ref:
     seq: 0
@@ -161,4 +161,4 @@ table_of_contents:
   label: 小兒丹毒
   type: section
   level: 1
-hash: sha256:6be5bf32475a66e68aa0e52de76d479a33cd2735f304e0e717997ee9ddbd420a
+hash: sha256:8619289374db03b1d6790f42474c8d08349ca1b5ade829cb8bf4958f4066646b
